@@ -1,0 +1,12 @@
+.card-body{
+    background-color: rgb(255, 0, 0)  ;
+}
+.card-title {
+    color: black;
+}
+.text-muted {
+    color: #000000!important;
+}
+a {
+    color: red !important;
+}
